@@ -1,0 +1,7 @@
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\Desafios\desafio-Introducao-programacao-C-sharp\desafio-Introducao-programacao-C-sharp\bin\Debug\desafio-Introducao-programacao-C-sharp.exe.config
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\Desafios\desafio-Introducao-programacao-C-sharp\desafio-Introducao-programacao-C-sharp\bin\Debug\desafio-Introducao-programacao-C-sharp.exe
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\Desafios\desafio-Introducao-programacao-C-sharp\desafio-Introducao-programacao-C-sharp\bin\Debug\desafio-Introducao-programacao-C-sharp.pdb
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\Desafios\desafio-Introducao-programacao-C-sharp\desafio-Introducao-programacao-C-sharp\obj\Debug\desafio-Introducao-programacao-C-sharp.csprojAssemblyReference.cache
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\Desafios\desafio-Introducao-programacao-C-sharp\desafio-Introducao-programacao-C-sharp\obj\Debug\desafio-Introducao-programacao-C-sharp.csproj.CoreCompileInputs.cache
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\Desafios\desafio-Introducao-programacao-C-sharp\desafio-Introducao-programacao-C-sharp\obj\Debug\desafio-Introducao-programacao-C-sharp.exe
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\Desafios\desafio-Introducao-programacao-C-sharp\desafio-Introducao-programacao-C-sharp\obj\Debug\desafio-Introducao-programacao-C-sharp.pdb
