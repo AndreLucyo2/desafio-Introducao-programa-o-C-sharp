@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Desafios\ComprasNoSupermercado.cs" />
+    <Compile Include="Desafios\DividirXporY.cs" />
+    <Compile Include="Desafios\validador-de-senhas-com-requisitos.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
