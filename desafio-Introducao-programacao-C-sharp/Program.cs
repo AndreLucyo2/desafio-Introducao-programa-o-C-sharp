@@ -7,7 +7,7 @@ namespace desafio_Introducao_programacao_C_sharp
     {
         static void Main(string[] args)
         {
-            DividirXporY.DividirXporYM();
+            ValidacaoDeNotas.ValidacaoDeNotasM();
         }
 
 

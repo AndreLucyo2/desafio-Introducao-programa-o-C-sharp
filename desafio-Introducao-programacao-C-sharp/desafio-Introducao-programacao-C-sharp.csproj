@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="Desafios\ComprasNoSupermercado.cs" />
     <Compile Include="Desafios\DividirXporY.cs" />
+    <Compile Include="Desafios\Fila_Do_Banco.cs" />
+    <Compile Include="Desafios\ValidacaoDeNotas.cs" />
     <Compile Include="Desafios\validador-de-senhas-com-requisitos.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
